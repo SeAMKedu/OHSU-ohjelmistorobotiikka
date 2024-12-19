@@ -1,5 +1,7 @@
 # Johdanto ohjelmistorobotiikkaan
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14528392.svg)](https://doi.org/10.5281/zenodo.14528392)
+
 Tänne on koottu materiaali, joka toimii johdantona ohjelmistorobotiikkaan. Näkökulma ohjelmistorobotiikkaan on ohjelmistokehittäjän tai -suunnittelijan eli toteuttajan, ei esimerkiksi niinkään hyödyntäjän. Tavoitteena on, että tämän materiaalin läpikäynyt
 - tietää, mitä ohjelmistorobotiikka tarkoittaa, mihin sitä käytetään ja mikä sen merkitys sekä suhde (generatiiviseen) tekoälyyn ja kielimalleihin on,
 - tuntee ohjelmistorobotin käyttämiseen ja kehittämiseen käytettäviä ympäristöjä, teknologioita, ohjelmointikieliä, kehikoita ja kirjastoja, sekä
