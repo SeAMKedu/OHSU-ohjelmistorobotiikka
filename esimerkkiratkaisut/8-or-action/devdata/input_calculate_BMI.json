@@ -1,0 +1,21 @@
+{
+    "inputs": [
+        {
+            "inputName": "Specified height and weight",
+            "inputValue": {
+                "height": "171",
+                "weight": "105"
+            }
+        }
+    ],
+    "metadata": {
+        "actionName": "calculate_BMI",
+        "actionRelativePath": "actions.py",
+        "schemaDescription": [
+            "height: string: Height in cm.",
+            "weight: string: Weight in kg."
+        ],
+        "managedParamsSchemaDescription": {},
+        "inputFileVersion": "v2"
+    }
+}
