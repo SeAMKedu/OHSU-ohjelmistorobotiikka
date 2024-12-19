@@ -25,4 +25,4 @@ Osaan harjoituksista on esimerkkiratkaisu hakemistossa `esimerkkiratkaisut`. Har
 
 ## Tausta
 
-Tämä materiaali on tuotettu osana Seinäjoen ammattikorkeakoulun Ohjelmistosuunnittelu-hanketta, jolle rahoituksen on myöntänyt Jatkuvan oppimisen ja työllisyyden palvelukeskus. Palvelukeskuksen tehtävänä on edistää työikäisten osaamisen kehittämistä ja osaavan työ-voiman saatavuutta sekä vastata nopealla toiminnalla työmarkkinoiden äkillisiin rakenne-muutoksiin. Palvelukeskuksen toimintaa ohjaavat opetus- ja kulttuuriministeriö sekä työ- ja elinkeinoministeriö.
+Tämä materiaali on tuotettu osana Seinäjoen ammattikorkeakoulun Ohjelmistosuunnittelu-hanketta, jolle rahoituksen on myöntänyt Jatkuvan oppimisen ja työllisyyden palvelukeskus. Palvelukeskuksen tehtävänä on edistää työikäisten osaamisen kehittämistä ja osaavan työvoiman saatavuutta sekä vastata nopealla toiminnalla työmarkkinoiden äkillisiin rakennemuutoksiin. Palvelukeskuksen toimintaa ohjaavat opetus- ja kulttuuriministeriö sekä työ- ja elinkeinoministeriö.
